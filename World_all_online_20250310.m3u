@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lifestyle;Relax" tvg-logo="https://i.imgur.com/2xglh33.png",10 Bold Adelaide (1080p)
+#EXTINF:-1 group-title="Lifestyle tvg-logo="https://i.imgur.com/2xglh33.png",10 Bold Adelaide (1080p)
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 group-title="Auto" tvg-logo="https://i.imgur.com/SZtJfOG.png",100% Auto Moto TV (406p) [Not 24/7]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 group-title="Business;News" tvg-logo="https://i.imgur.com/bSXKdK5.png",100% News (576p)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/bSXKdK5.png",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/GzI3RC4.png",101tv Axarquia (480p)
 https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
