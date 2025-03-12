@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lifestyle tvg-logo="https://i.imgur.com/2xglh33.png",10 Bold Adelaide (1080p)
-https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 group-title="Auto" tvg-logo="https://i.imgur.com/SZtJfOG.png",100% Auto Moto TV (406p) [Not 24/7]
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/bSXKdK5.png",100% News (576p)
@@ -751,8 +749,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/SLqrEOz.png",Anzo├ítegui TV (360p) [Not 24/7]
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-#EXTINF:-1 group-title="Business;Culture;Lifestyle" tvg-logo="https://i.imgur.com/IBcMIcZ.png",apart TV (1080p)
-https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/IM4D8Wz.png",Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/9wJe71I.png",Apsara TV11 (720p)
