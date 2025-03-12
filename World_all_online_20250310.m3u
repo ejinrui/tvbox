@@ -6135,12 +6135,6 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/2llPsSV.png",World Fishing Network
 http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png",Peer TV Alto Adige (1280p)
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png",Peer TV South Tyrol (1280p)
-https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png",Peer TV Sudtirol (1080p)
-https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/LMHrQJu.png",Better Life Nature Channel (480p)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/fIi8o0C.png",Myzen TV [Geo-blocked]
