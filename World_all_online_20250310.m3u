@@ -79,14 +79,8 @@ https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",Cafe Trade TV (720p)
 https://cafetradehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC
+#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/BnNYzWI.png",CNBC Africa (480p)
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/opBXx1K.png",CNBC Arabiya (1080p)
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/bUfeG7Y.png",CNBC Indonesia (720p)
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",DeFiance Media (1080p)
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",FOX Business (1080p)
@@ -1371,14 +1365,6 @@ http://31.148.48.15/STS_Love/index.m3u8
 https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/GzI3RC4.png",101tv Axarquia (480p)
 https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mBYxWOg.png",12 TV Parma (540p) [Not 24/7]
-https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/OA9hm6e.png",12 冒鈺懨扳枒冒垄冒鈻懨扳晽
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png",13C (1080p)
-https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Televisi鈹溾攤n (1080p)
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/04fCzHl.png",16tv Budapest (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/XfkbTrU.png",1Almere TV (720p)
@@ -1389,8 +1375,6 @@ https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/FJBL6zI.png",2TV (720p)
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/VTJqdoX.png",360鈹枒
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mSn7ACs.png",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ILfXDRs.png",7 TeleValencia (576p)
@@ -4433,8 +4417,6 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/GPRGA9C.png",Hallmark Movies Mysteries East
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/fPphLl1.png",HBC
-https://ffs3.gulfsat.com/hbc/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/1j7cT2I.png",Hollywood
 http://stream01.vnet.am/ParamountChannel/mono.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/bQdkyF9.png",IFC East (720p)
