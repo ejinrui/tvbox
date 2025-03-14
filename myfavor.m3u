@@ -229,3 +229,50 @@ http://37.27.111.214:8080/live/19/hls.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 group-title="港澳台频道" tvg-logo="https://live.fanmingming.cn/tv/港台电视32.png",港台电视32
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+//////Start CBC News
+#EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/aWNHg5z.png",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/OiiM6Mz.png",CBC Montreal (CBMT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/xflShTG.png",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/EHGOQhj.png",CBC North (CFYK-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/v3DJUa8.png",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/PWGVjsg.png",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/zmsDo6X.png",CBC TV (720p)
+https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/NFts1uU.png",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="CBC",CBC Comedy (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2110963/cbccomedy/master.m3u8
+#EXTINF:-1 group-title="CBC",CBC Heartland (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
+#EXTINF:-1 group-title="CBC",CBC Murdoch Mysteries (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
+#EXTINF:-1 group-title="CBC",CBC News BC (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
+#EXTINF:-1 group-title="CBC",CBC News Explore (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
+#EXTINF:-1 group-title="CBC",CBC News Toronto (1080p) [Geo-blocked]
+https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+
+//////End CBC News.
