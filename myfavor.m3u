@@ -21,14 +21,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png",RT News（英语国际）
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RT.png",RT Français（法语）
-https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png",RT Documentary（英语纪录）
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际频道",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际频道",CBN News
@@ -79,10 +71,6 @@ https://stream1.freetv.fun/cctv4k-2.ctv
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png",纪实科教8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png",新视觉HD
-http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[极速]
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[极速]
