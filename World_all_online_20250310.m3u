@@ -1919,14 +1919,8 @@ https://apollo.production-public.tubi.io/live/ac-kcci.m3u8
 https://apollo.production-public.tubi.io/live/ac-kpax.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",CBS East (720p)
 http://fl3.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/gBbLyqh.png",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV-4 Asia (480p)
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/1hHW3IK.png",CCX Media North Brooklyn Park MN (1080p)
 https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/sjAGFWu.png",Cekmek鈹溍倅 TV (1080p)
-https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png",Celebes TV [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/E9wAUrT.png",Central TV (1080p)
@@ -5701,13 +5695,11 @@ https://tnt-television.com/Geopolis_tv/index.m3u8
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/b5K5Uwh.png",GIT (720p)
 https://stream.uagit.tv/gittv.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WDLqcWW.png",Global Punjab (1080p)
-https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/f1tz5fg.png",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/2a2XUKl.png",Haber61 TV (720p) [Not 24/7]
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6Tw3rUp.png",Habert鈹溾暆rk TV (1080p)
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6Tw3rUp.png",Haberturk TV (1080p)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/xM0HA30.png",Halk TV (1080p)
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
@@ -8027,36 +8019,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/wlYUEYc.png",Gilroy CMAP TV Channel 19 (720p)
 https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Global News BC
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11
-#EXTINF:-1 group-title="Undefined",Global News Calgary
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf23dcfb48300077f8348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=806004b3-dd0d-4fb2-b4a6-fdc04916c09b
-#EXTINF:-1 group-title="Undefined",Global News Edmonton
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf2de1fba5f0007e47d9c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc405c3a-0f93-4c4b-a3f6-a76200a14712
-#EXTINF:-1 group-title="Undefined",Global News Halifax
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf398b8e02600071deda5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bb95718e-5f7a-42ff-afbd-dd69a8d9c750
-#EXTINF:-1 group-title="Undefined",Global News Kingston
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf4964446e2000742073e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2703358d-cd85-4e18-b252-dad10d86dc4a
-#EXTINF:-1 group-title="Undefined",Global News Lethbridge
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf7439cb58900088dc77b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59059981-bf95-449f-80e8-69615ac86535
-#EXTINF:-1 group-title="Undefined",Global News Montreal
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfbd6ad95670007f567af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69de338a-c867-4e6c-a701-385c6de43fb6
-#EXTINF:-1 group-title="Undefined",Global News National
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28cf81a2-fc9d-48d7-8d50-3eebbcf68d91
-#EXTINF:-1 group-title="Undefined",Global News Okanagan
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfc572dc3750007a493ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=42c1b7b5-72bc-430e-925b-fcada64fc69c
-#EXTINF:-1 group-title="Undefined",Global News Peterborough
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfcd8c2db990007861e43/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1fbd862a-254a-4ef1-bbcf-ee26c7a7a35b
-#EXTINF:-1 group-title="Undefined",Global News Regina
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbff53ca8f2200080253b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1d76b1b-8c4c-4a05-bf77-7cdb5ffff309
-#EXTINF:-1 group-title="Undefined",Global News Saskatoon
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00359cb58900088dc840/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1bc20851-ccc6-43b2-a6cc-fbad52695d98
-#EXTINF:-1 group-title="Undefined",Global News Toronto
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a
-#EXTINF:-1 group-title="Undefined",Global News Winnipeg
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc0120880c890007191016/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bcdaa8b-3df2-47ca-abf7-ba093e2e6ca0
-#EXTINF:-1 group-title="Undefined",Global Social TV (720p)
-https://ss9.domint.net:3042/gstv_str/globalsocialtv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Goal TV
 https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 group-title="Undefined",Gogo Play TV (720p)
