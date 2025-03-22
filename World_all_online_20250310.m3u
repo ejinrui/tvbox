@@ -564,8 +564,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=773b4ab9-534b-435a-904e-6819ef8dfb5e
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wedo-big-stories-ch.png",Wedo Big Stories (1080p)
 https://weyyak-live.akamaized.net/wedo_big_stories/index.m3u8
-#EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/5FrE3Nv.png",Al Alamiya 2
-http://82.212.74.98:8000/live/7815.m3u8
+
 #EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/UjOxwdd.png",Alhiwar TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/MCbCSWv.png",ALTV (1080p)
@@ -1426,86 +1425,6 @@ https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mgDCKiy.png",Aksu TV (720p)
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/uWibV0i.png",Al Ahad TV
-http://63b03f7689049.streamlock.net:1935/live/7/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Z2rfrQ8.png",Al Aqsa Channel (416p) [Not 24/7]
-http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/8qQouTW.jpg",Al Iraqia (720p)
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QMUjPXx.png",Al Ittihad (552p) [Not 24/7]
-http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Knd2lAQ.png",Al Khalij (720p) [Not 24/7]
-https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ltyRjPK.png",Al Rasheed TV (1080p) [Not 24/7]
-https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ts3RjTV.png",Al Rayyan (1080p)
-https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/4qB5iN0.png",Al Rayyan Al Qadeem (1080p)
-https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/GRQTndk.png",Al Saudiya (1080p) [Not 24/7]
-https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/otAHLRo.png",Al Shallal TV (1080p)
-https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/WGX5SCx.png",Al Sharqiya Min Kabla (1080p)
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/OpHjfYV.png",Al Wousta TV (1080p)
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pcWU6e1.png",Alacant鈹溌?TV (576p) [Not 24/7]
-https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/a3w9eFe.png",Alanya Posta TV (1080p)
-https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/3Kv0t3X.png",Alawla TV (720p)
-https://63b03f7689049.streamlock.net/live/1tv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/310px-Alborz_TV_logo.svg.png",Alborz
-https://ncdn.telewebion.com/alborz/live/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/TMg4Kxi.png",AlbUK TV (1080p) [Not 24/7]
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pzJAYan.png",Alcarria TV (576p) [Not 24/7]
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/WwE7fhC.png",Alfa TVP (1080p)
-http://109.233.89.166/Alfa_TVP_HD/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/f6PQzKd.png",Alforat TV (1080p)
-http://95.216.180.111:1935/live/10/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bl9ie9u.png",Alhayat TV (720p)
-https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png",Allg鈹溍眜 TV (1080p)
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/NPB6ciB.png",Alpenland TV (720p)
-https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/SbuD1UW.png",Alsacias Televisi鈹溾攤n (ATV | Canal 28) (720p)
-https://s.emisoras.tv:8081/atv/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mJIG5IV.png",Al-Sharqiya (1080p)
-https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KWvVLhc.png",Altanto TV (720p)
-https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/3JriZGR.png",Altenburg TV (1080p)
-https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://www.althania.tv/images/logo2.png",Althania (1080p)
-https://live.kwikmotion.com/syriatv02live/syriatv02.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/yt7JJrn.png",Alto Adige TV (720p)
-https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/D7RBtZ2.png",Altyn Asyr (406p) [Not 24/7]
-https://alpha.tv.online.tm/hls/ch001.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/m6CM7VU.png",Alvin Channel TV (360p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/gUqKymM.png",Am鈹溌畆ica Est鈹溌畆eo Guayaquil (360p)
-https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/gUqKymM.png",Am鈹溌畆ica Est鈹溌畆eo Ibarra (720p)
-https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/gUqKymM.png",Am鈹溌畆ica Est鈹溌畆eo Quito (1080p)
-https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/gUqKymM.png",Am鈹溌畆ica Est鈹溌畆eo Tulc鈹溍璶 (614p)
-https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/NTlC6e7.png",Amga TV (720p) [Not 24/7]
-https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5l7kw0b.png",Amman TV (720p)
-https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/taaRzdO.png",Anadolu Dernek TV (576p)
-http://185.234.111.229:8000/play/a020
-#EXTINF:-1 group-title="General" tvg-logo="https://www.anadolunettv.com/d/r/logo.png",Anadolu Net TV (1080p)
-https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/5VOPFzs.png",Anand TV (720p) [Not 24/7]
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/USbmwiC.png",Antena 3 (720p)
 http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/9Nh2mo9.png",Antena Seis TV (720p) [Geo-blocked]
