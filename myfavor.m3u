@@ -206,8 +206,6 @@ http://aktv_stream1.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/环球电视台.png",环球电视
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="港澳台-粤语" tvg-logo="https://live.fanmingming.cn/tv/耀才财经.png",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png",台视新闻
 http://222.128.55.152:9080/live/ts.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CTI2.png",中天新闻
