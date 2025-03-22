@@ -23,7 +23,7 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/NBC1.png",NBC News Now
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC News NOW
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC News NOW
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
 
 
@@ -281,7 +281,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/zmsDo6X.png",CBC TV (720p)
 https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WsD83lq.png",CBC TV8 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="CBC" tvg-logo="https://i.imgur.com/WsD83lq.png",CBC TV8 (1080p) [Not 24/7]
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
 #EXTINF:-1 group-title="CBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
