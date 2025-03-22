@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="US TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC
+#EXTINF:-1 group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png",BBC
