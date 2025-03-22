@@ -351,5 +351,42 @@ https://ss9.domint.net:3042/gstv_str/globalsocialtv/playlist.m3u8
 
 /////global
 
+/////ABC 
+
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/QbkW7zY.png",ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/43s7KXt.png",ABC 15 Phoenix AZ (KNXV-TV) (720p)
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",ABC 25 News Central Texas
+https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/8vXRrRe.jpg",ABC 4 Seattle WA (KOMO-TV) (720p)
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/MWvoICD.png",ABC 7 Denver CO (KMGH) (720p)
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/qQ33TVM.png",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Adelaide (720p)
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Brisbane (720p)
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Puq8t7f.png",ABC TV Canberra (720p)
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Darwin (720p)
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Hobart (720p)
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Melbourne (720p)
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Perth (720p)
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Ekjb7w8.png",ABC TV Sydney (720p)
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/OqfBMGy.png",ABC-TV Paraguay (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+
+###EXTINF:-1 group-title="General" tvg-logo="https://www.abn.co.kr/resources/images/logo.png",ABN TV (720p) 韩语
+##https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
 
 
