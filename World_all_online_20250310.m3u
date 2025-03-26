@@ -41,18 +41,8 @@ https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Tm3VFmq.png",Pluto TV Cars
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac636-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2f9bce8e-d9f8-4cf4-8b83-367dc559496a
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/CKCtZo7.png",30A Investment Pitch
-https://www.30a-tv.com/InvPit.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/eEV4r6J.jpg",Al Arabiya Business (1080p)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/IqvZBeo.png",Aleph Business (720p)
-https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business (1080p) [Not 24/7]
-http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/8vGGdB0.png",Ausbiz TV
-https://ausbiztv-ausbiz-1-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/A5ui53C.png",Bloomberg Adria (1080p)
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://www.theofficialboard.com/img/twitterCompanyBigImages/32361.jpg",Bloomberg Originals (1080p)
@@ -75,27 +65,11 @@ https://bloomberg.com/media-manifest/streams/us-event.m3u8
 https://bloomberg.com/media-manifest/streams/politics.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/zZFl3vy.png",Business 24 Africa (480p)
-https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.ibb.co/GW4cMfc/cafe-trade-tv.png",Cafe Trade TV (720p)
-https://cafetradehls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Business" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU",DeFiance Media (1080p)
 https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",FOX Business (1080p)
-http://41.205.93.154/FOXBUSINESS/index.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",IDTV (720p) [Not 24/7]
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/GrzQ1ya.png",Negocios TV (1080p)
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/OmlFQa8.png",NW Economie (576p)
-https://hls.newworldtv.com/nw-economie/video/live.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/RbVdkJ5.png",TD Ameritrade Network (1080p)
 https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/XC7i7ZL.png",Telewizja Biznesowa (1080p)
-https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/FnInQRd.png",Tevex (720p) [Not 24/7]
-https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3",CNBC-e
