@@ -14,8 +14,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 group-title="国际频道",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png",CNN
-https://jmp2.uk/sam-GBBD8000016N.m3u8
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
@@ -293,27 +291,27 @@ https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
 
 //////Bloomberg
 
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/A5ui53C.png",Bloomberg Adria (1080p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/A5ui53C.png",Bloomberg Adria (1080p)
 https://d3ojytvj4doga3.cloudfront.net/app-23764-1566/ngrp:Jq3SvH9h_all/playlist.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://www.theofficialboard.com/img/twitterCompanyBigImages/32361.jpg",Bloomberg Originals (1080p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://www.theofficialboard.com/img/twitterCompanyBigImages/32361.jpg",Bloomberg Originals (1080p)
 https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia (720p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia (720p)
 https://bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia Live Event (720p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Australia (270p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Australia (270p)
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV EMEA Live Event (720p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV EMEA Live Event (720p)
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Europe (720p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Mongolia HD (1080p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Mongolia HD (1080p)
 https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV US Live Event (720p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV US Live Event (720p)
 https://bloomberg.com/media-manifest/streams/us-event.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV US Politics Live Event (720p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV US Politics Live Event (720p)
 https://bloomberg.com/media-manifest/streams/politics.m3u8
-#EXTINF:-1 group-title="Bloomberg" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/xGlToly.png",Bloomberg TV+
 https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 
 ///// End Bloomberg
@@ -429,14 +427,14 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://i.imgur.com/EpMawIy.png",CHCO-TV (720p) [Geo-blocked]
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance (1080p)
+#EXTINF:-1 group-title="财经" tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3",CNBC-e
+#EXTINF:-1 group-title="财经" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/cnbc-e-buyuk.png?rkt=DfS6Tgv6Hjr93k3",CNBC-e
 https://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 
-#EXTINF:-1 group-title="Business" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",Ameritrade (1080p) [Not 24/7]
+#EXTINF:-1 group-title="财经" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",Ameritrade (1080p) [Not 24/7]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="动画" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png",WBRA PBS Kids (1080p)
