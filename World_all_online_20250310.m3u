@@ -2185,31 +2185,31 @@ http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/x0vLIWr.png",ICI Montreal (720p)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pFCJGj4.png",Ici Radio-Canada T鈹溌甽鈹溌?(1080p) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/pFCJGj4.png",Ici Radio-Canada (1080p) [Geo-blocked]
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/xN4Valg.png",Ici Radio-Canada T鈹溌甽鈹溌?Alberta (CBXFT-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/xN4Valg.png",Ici Radio-Canada Alberta (CBXFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704020/cancbxft/master.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",Ici Radio-Canada T鈹溌甽鈹溌?Colombie-Britannique/Yukon (CBUFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704017/cancbuft/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/1B3d8Jc.png",Ici Radio-Canada T鈹溌甽鈹溌?Est du Qu鈹溌産ec (CJBR-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/1B3d8Jc.png",Ici Radio-Canada Est du Quebec (CJBR-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704024/cancjbr/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",Ici Radio-Canada T鈹溌甽鈹溌?Estrie (CKSH-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",Ici Radio-Canada Estrie (CKSH-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704016/cancksh/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ici_Manitoba_logo.jpg/512px-Ici_Manitoba_logo.jpg",Ici Radio-Canada T鈹溌甽鈹溌?Manitoba (CBWFT-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ici_Manitoba_logo.jpg/512px-Ici_Manitoba_logo.jpg",Ici Radio-Canada Manitoba (CBWFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704018/cancbwft/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",Ici Radio-Canada T鈹溌甽鈹溌?Mauricie/Centre-du-Qu鈹溌産ec (CKTM-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",Ici Radio-Canada Mauricie/Centre-du-Quebec (CKTM-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704021/cancktm/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/1f798e8.png",Ici Radio-Canada T鈹溌甽鈹溌?Ontario (CBLFT-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/1f798e8.png",Ici Radio-Canada Ontario (CBLFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704022/cancblft/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/373Y8Py.png",Ici Radio-Canada T鈹溌甽鈹溌?Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/373Y8Py.png",Ici Radio-Canada Ottawa/Gatineau (CBOFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/664046/cancboft/master.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg/512px-Current_Logo_of_Ici_Radio-Canada_T%C3%A9l%C3%A9_%282016-present%29.svg.png",Ici Radio-Canada T鈹溌甽鈹溌?Qu鈹溌産ec (CBVT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",Ici Radio-Canada T鈹溌甽鈹溌?Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/SRC-TV.svg/512px-SRC-TV.svg.png",Ici Radio-Canada Saguenay/Lac-St-Jean (CKTV-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Ici_Saskatchewan_logo.png/512px-Ici_Saskatchewan_logo.png",Ici Radio-Canada T鈹溌甽鈹溌?Saskatchewan (CBKFT-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Ici_Saskatchewan_logo.png/512px-Ici_Saskatchewan_logo.png",Ici Radio-Canada Saskatchewan (CBKFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Ici_Acadie_logo.png/512px-Ici_Acadie_logo.png",Ici Radio-Canada T鈹溌甽鈹溌?Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
+#EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Ici_Acadie_logo.png/512px-Ici_Acadie_logo.png",Ici Radio-Canada Terre-Neuve-et-Labrador (CBAFT-DT) [Geo-blocked]
 https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/JLYQFoX.png",Ideaal TV (480p) [Not 24/7]
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
@@ -2217,7 +2217,7 @@ https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 https://ncdn.telewebion.com/ilam/live/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/DP6HmDV.png",Imagen Universal TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/a9hgTmM.png",Im鈹溍璼 TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/a9hgTmM.png",Imedi TV (1080p) [Not 24/7]
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/94hNyxZ.png",Imedi TV (1080p)
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
