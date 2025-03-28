@@ -117,7 +117,8 @@ rtsp://180.95.143.19/PLTV/88888910/224/3221225847/376430588.smil
 https://stream.freetv.fun/cctv4k-2.ctv
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png",CGTN英语
-https://0472.org/hls/cgtn.m3u8
+/////https://0472.org/hls/cgtn.m3u8
+https://www.youtube.com/watch?v=HFib76ySpbU
 
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
