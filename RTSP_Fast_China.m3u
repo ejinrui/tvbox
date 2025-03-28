@@ -12,9 +12,6 @@ rtsp://180.95.143.19/PLTV/88888910/224/3221225598/100001000000000600000000002956
 #EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="🌐央视频道",CCTV4
 rtsp://180.95.143.19/PLTV/88888910/224/3221225850/376430583.smil
 
-#EXTINF:-1  tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png"  group-title="🌐央视频道",CCTV4
-rtsp://180.95.143.19/PLTV/88888910/224/3221225497/10000100000000060000000000107277_0.smil
-
 #EXTINF:-1  tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png"  group-title="🌐央视频道",CCTV5
 rtsp://180.95.143.19/PLTV/88888910/224/3221225609/10000100000000060000000000790217_0.smil
 
@@ -38,9 +35,6 @@ rtsp://180.95.143.19/PLTV/88888910/224/3221225577/100001000000000600000000001073
 
 #EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png"  group-title="🌐央视频道",CCTV11
 rtsp://180.95.143.19/PLTV/88888910/224/3221225843/376430589.smil
-
-#EXTINF:-1  tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png"  group-title="🌐央视频道",CCTV11
-rtsp://180.95.143.19/PLTV/88888910/224/3221225501/10000100000000060000000000107281_0.smil
 
 #EXTINF:-1  tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png"  group-title="🌐央视频道",CCTV12
 rtsp://180.95.143.19/PLTV/88888910/224/3221225578/10000100000000060000000000107358_0.smil
@@ -159,23 +153,23 @@ rtsp://180.95.143.19/PLTV/88888910/224/3221225559/100001000000000600000000001073
 #EXTINF:-1  tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png"  group-title="📡卫视频道",黑龙江卫视
 rtsp://180.95.143.19/PLTV/88888910/224/3221225573/10000100000000060000000000107353_0.smil
 
-#EXTINF:-1 group-title="动画片",金鹰卡通
+#EXTINF:-1 group-title="📡卫视频道",金鹰卡通
 rtsp://180.95.143.19/PLTV/88888910/224/3221225564/10000100000000060000000000107344_0.smil
 
-#EXTINF:-1 group-title="☘️甘肃频道",嘉峪关综合
+#EXTINF:-1 group-title="📡卫视频道",嘉峪关综合
 rtsp://180.95.143.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 
-#EXTINF:-1 group-title="☘️甘肃频道",甘南藏语
+#EXTINF:-1 group-title="📡卫视频道",甘南藏语
 rtsp://180.95.143.19/PLTV/88888910/224/3221225827/374456774.smil
 
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃少儿
+#EXTINF:-1 group-title="📡卫视频道",甘肃少儿
 rtsp://180.95.143.19/PLTV/88888910/224/3221225494/10000100000000060000000000102582_0.smil
 
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃经济
+#EXTINF:-1 group-title="📡卫视频道",甘肃经济
 rtsp://180.95.143.19/PLTV/88888910/224/3221225493/10000100000000060000000000102578_0.smil
 
-#EXTINF:-1 group-title="☘️甘肃频道",甘肃都市
+#EXTINF:-1 group-title="📡卫视频道",甘肃都市
 rtsp://180.95.143.19/PLTV/88888910/224/3221225492/10000100000000060000000000102577_0.smil
 
-#EXTINF:-1  tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png"  group-title="☘️青海频道",安多卫视
+#EXTINF:-1  tvg-name="安多卫视" tvg-logo="https://live.fanmingming.cn/tv/安多卫视.png"  group-title="📡卫视频道",安多卫视
 rtsp://180.95.143.19/PLTV/88888910/224/3221225872/376957310.smil
