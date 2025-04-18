@@ -13,16 +13,16 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://i.imgur.com/1EqQGKS.png",CBC News
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 
-#EXTINF:-1 group-title="国际频道",CBC News BC (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="国际频道" CBC News BC (1080p)
 https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
 
-#EXTINF:-1 group-title="国际频道",CBN News
+#EXTINF:-1 group-title="国际频道" CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 group-title="国际频道",CNN 1080P
+#EXTINF:-1 group-title="国际频道" CNN 1080P
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 
-#EXTINF:-1 group-title="国际频道",CNN 720P
+#EXTINF:-1 group-title="国际频道" CNN 720P
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
@@ -47,10 +47,10 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际频道",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 group-title="国际频道",TBS
+#EXTINF:-1 group-title="国际频道" TBS
 http://143.244.60.30/TBS/index.m3u8
 
-#EXTINF:-1 group-title="国际频道",Love Nature
+#EXTINF:-1 group-title="国际频道" Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="国际频道",Wild Earth
