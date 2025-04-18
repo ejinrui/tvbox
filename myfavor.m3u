@@ -137,9 +137,13 @@ http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
 
-#EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[备用]
+#EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[备用1]
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
+#EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[备用2]
+http://108.181.20.197/livehttpplay?channel_id=30014
+
+http://108.181.20.197/livehttpplay?channel_id=30014
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[备用]
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
