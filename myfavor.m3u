@@ -108,40 +108,43 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://i.imgur.com/EpMawIy.png",CHCO-TV (720p) [Geo-blocked]
 https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png", PBS Kids (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
 
 
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="🌐央视频道",CCTV1 (快)
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="央视频道",CCTV1 (快)
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="🌐央视频道",CCTV1 (快)
+
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="央视频道",CCTV1 (快)
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
-#EXTINF:-1 group-title="🌐央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快 RSTP)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快 RSTP)
 rtsp://180.95.143.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
 
-#EXTINF:-1 group-title="🌐央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
 https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
-#EXTINF:-1 group-title="🌐央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
 https://stream1.freetv.fun/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
 
-#EXTINF:-1 group-title="🌐央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
 
 
 
 
 
+
+
+#EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[极速]
+http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[极速]
 http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="港澳台AKTV",鳳凰中文
 http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-
-#EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[极速]
-http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png",鳳凰香港[极速]
 http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
