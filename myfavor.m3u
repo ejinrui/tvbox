@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 
@@ -16,13 +17,10 @@ https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a7
 
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",bloomberg TV US HD 1080P #1
-
 https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",bloomberg TV US HD 1080P #2
 https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -48,18 +46,17 @@ https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000
 #EXTINF:-1 group-title="国际频道"  tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png",CNN International #2
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 
-
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://live.fanmingming.cn/tv/DW.png",DW
 http://aktv_stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
 
-///#EXTINF:-1 group-title="国际频道",DW News
-///https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+##///#EXTINF:-1 group-title="国际频道",DW News
+##///https://ghp.ci/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 
-///#EXTINF:-1 group-title="国际频道",DW News
-///http://37.27.111.214:8080/live/46/hls.m3u8
+##///#EXTINF:-1 group-title="国际频道",DW News
+##///http://37.27.111.214:8080/live/46/hls.m3u8
 
 #EXTINF:-1 group-title="国际频道",ESPN 1080P
 http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
@@ -111,31 +108,6 @@ https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png", PBS Kids (1080p)
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
-
-
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="央视频道",CCTV1 (快)
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-
-#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="央视频道",CCTV1 (快)
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
-
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快 RSTP)
-rtsp://180.95.143.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
-
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
-https://cdn5.163189.xyz/live/cctv1/stream.m3u8
-
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
-https://stream1.freetv.fun/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
-
-#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[极速]
 http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
@@ -474,3 +446,22 @@ https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 ////#EXTINF:-1 group-title="动画" tvg-logo="https://i.imgur.com/ambc9le.png",PBS Kids Eastern/Central (720p)
 ////https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+
+
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="央视频道",CCTV1 (快)
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+#EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png"  group-title="央视频道",CCTV1 (快)
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快 RSTP)
+rtsp://180.95.143.19/PLTV/88888910/224/3221225567/10000100000000060000000000107347_0.smil
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
+https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
+https://stream1.freetv.fun/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
+
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1 (快)
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8?
