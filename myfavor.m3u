@@ -24,10 +24,10 @@ https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
 #EXTINF:-1 group-title="国际频道",CBN News     
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 group-title="国际频道",CNN 1080P
+#EXTINF:-1 group-title="国际频道"  tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png",CNN 1080P
 https://jmp2.uk/sam-GBBD8000016N.m3u8
 
-#EXTINF:-1 group-title="国际频道",CNN 720P
+#EXTINF:-1 group-title="国际频道"  tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/CNN.png",CNN 720P
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 
