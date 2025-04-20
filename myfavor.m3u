@@ -115,16 +115,17 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m
 
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[极速]
-http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[极速]
-http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png",鳳凰香港[极速]
-http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[备用1]
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+http://aktv_stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png",鳳凰中文[备用2]
 http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
@@ -136,7 +137,7 @@ http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&c
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[备用1]
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+http://aktv_stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视资讯台.png",鳳凰資訊[备用2]
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
@@ -145,7 +146,8 @@ http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 http://60.178.149.51:4022/udp/233.50.200.192:5140
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png",鳳凰香港[备用1]
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://aktv_stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+
 
 #EXTINF:-1 group-title="港澳台AKTV" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png",鳳凰香港[备用2]
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -268,51 +270,51 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 
 
 //////Start CBC News
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="新闻"  CBC News BC (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,CBC News BC (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
-#EXTINF:-1 group-title="新闻"  CBC News Halifax (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,CBC News Halifax (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
-#EXTINF:-1 group-title="新闻"  CBC News Toronto (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,CBC News Toronto (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/CBRT-DT_logo.jpg",CBC Calgary (CBRT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CBC_Logo_1992-Present.svg/512px-CBC_Logo_1992-Present.svg.png",CBC Edmonton (CBXT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/aWNHg5z.png",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/aWNHg5z.png",CBC Manitoba (CBWT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/OiiM6Mz.png",CBC Montreal (CBMT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/OiiM6Mz.png",CBC Montreal (CBMT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/xflShTG.png",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/xflShTG.png",CBC New Brunswick (CBAT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Logo_for_CBNT-DT.jpg",CBC Newfoundland and Labrador (CBNT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/EHGOQhj.png",CBC North (CFYK-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/EHGOQhj.png",CBC North (CFYK-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/CBHT-DT_Logo.jpg",CBC Nova Scotia (CBHT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/v3DJUa8.png",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/v3DJUa8.png",CBC Ottawa (CBOT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/CBCT-DT_logo.jpg",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/PWGVjsg.png",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/PWGVjsg.png",CBC Saskatchewan (CBKT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9e/CBLT-DT_Logo.jpg",CBC Toronto (CBLT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/zmsDo6X.png",CBC TV (720p)
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/zmsDo6X.png",CBC TV (720p)
 https://stream.berosat.live:19360/cbc-tv/cbc-tv.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/WsD83lq.png",CBC TV8 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/WsD83lq.png",CBC TV8 (1080p) [Not 24/7]
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg",CBC Vancouver (CBUT-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/NFts1uU.png",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/NFts1uU.png",CBC Windsor (CBET-DT) (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
-#EXTINF:-1 group-title="新闻"  tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News 
+#EXTINF:-1 group-title="新闻" ,tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News 
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="新闻"  CBC Heartland (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,CBC Heartland (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
-#EXTINF:-1 group-title="新闻"  CBC Murdoch Mysteries (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="新闻" ,CBC Murdoch Mysteries (1080p) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2113390/cbcmurdoch/master.m3u8
 
 //////End CBC News.
@@ -346,35 +348,35 @@ https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 
 ///// Global
 
-#EXTINF:-1 group-title="新闻"  Global News BC
+#EXTINF:-1 group-title="新闻" ,Global News BC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11
-#EXTINF:-1 group-title="新闻"  Global News Calgary
+#EXTINF:-1 group-title="新闻" ,Global News Calgary
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf23dcfb48300077f8348/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=806004b3-dd0d-4fb2-b4a6-fdc04916c09b
-#EXTINF:-1 group-title="新闻"  Global News Edmonton
+#EXTINF:-1 group-title="新闻" ,Global News Edmonton
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf2de1fba5f0007e47d9c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dc405c3a-0f93-4c4b-a3f6-a76200a14712
-#EXTINF:-1 group-title="新闻"  Global News Halifax
+#EXTINF:-1 group-title="新闻" ,Global News Halifax
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf398b8e02600071deda5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bb95718e-5f7a-42ff-afbd-dd69a8d9c750
-#EXTINF:-1 group-title="新闻"  Global News Kingston
+#EXTINF:-1 group-title="新闻" ,Global News Kingston
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf4964446e2000742073e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a8-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2703358d-cd85-4e18-b252-dad10d86dc4a
-#EXTINF:-1 group-title="新闻"  Global News Lethbridge
+#EXTINF:-1 group-title="新闻" ,Global News Lethbridge
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf7439cb58900088dc77b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59059981-bf95-449f-80e8-69615ac86535
-#EXTINF:-1 group-title="新闻"  Global News Montreal
+#EXTINF:-1 group-title="新闻" ,Global News Montreal
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfbd6ad95670007f567af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69de338a-c867-4e6c-a701-385c6de43fb6
-#EXTINF:-1 group-title="新闻"  Global News National
+#EXTINF:-1 group-title="新闻" ,Global News National
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28cf81a2-fc9d-48d7-8d50-3eebbcf68d91
-#EXTINF:-1 group-title="新闻"  Global News Okanagan
+#EXTINF:-1 group-title="新闻" ,Global News Okanagan
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfc572dc3750007a493ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=42c1b7b5-72bc-430e-925b-fcada64fc69c
-#EXTINF:-1 group-title="新闻"  Global News Peterborough
+#EXTINF:-1 group-title="新闻" ,Global News Peterborough
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbfcd8c2db990007861e43/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1fbd862a-254a-4ef1-bbcf-ee26c7a7a35b
-#EXTINF:-1 group-title="新闻"  Global News Regina
+#EXTINF:-1 group-title="新闻" ,Global News Regina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbff53ca8f2200080253b5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb5-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1d76b1b-8c4c-4a05-bf77-7cdb5ffff309
-#EXTINF:-1 group-title="新闻"  Global News Saskatoon
+#EXTINF:-1 group-title="新闻" ,Global News Saskatoon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00359cb58900088dc840/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1bc20851-ccc6-43b2-a6cc-fbad52695d98
-#EXTINF:-1 group-title="新闻"  Global News Toronto
+#EXTINF:-1 group-title="新闻" ,Global News Toronto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc00b3b821cf00070f82c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb7-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c77ab85b-1b15-4a76-bcb6-d0e12396d41a
-#EXTINF:-1 group-title="新闻"  Global News Winnipeg
+#EXTINF:-1 group-title="新闻" ,Global News Winnipeg
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cc0120880c890007191016/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c0-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bcdaa8b-3df2-47ca-abf7-ba093e2e6ca0
-#EXTINF:-1 group-title="新闻"  Global Social TV (720p)
+#EXTINF:-1 group-title="新闻" ,Global Social TV (720p)
 https://ss9.domint.net:3042/gstv_str/globalsocialtv/playlist.m3u8
 
 /////global
