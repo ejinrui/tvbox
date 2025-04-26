@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="国际频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png",CTV
+#EXTINF:-1 group-title="国际频道" ,CTV
 https://embed.jasperplayer.com/?brand=ctv_news&destination=ctvnews_web&language=EN&contentId=1920563
 
 #EXTINF:-1 group-title="国际频道" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png",ABC News Live
